@@ -1,0 +1,8 @@
+setup.py
+flaskner.egg-info/PKG-INFO
+flaskner.egg-info/SOURCES.txt
+flaskner.egg-info/dependency_links.txt
+flaskner.egg-info/top_level.txt
+test/test_doubles.py
+test/test_index_e2e.py
+test/test_ner_client.py
